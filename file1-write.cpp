@@ -14,7 +14,7 @@ main()
 
     if(!f)
     {
-        cout<<"File creation failed :-(";
+        cout<<"File creation failed ;-(";
         return -1;
     }
 
